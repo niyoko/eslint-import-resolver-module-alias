@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-import-resolver-module-alias",
+  "name": "eslint-import-resolver-module-alias",
   "version": "0.1.0",
   "description": "eslint plugins for module-alias resolver",
   "main": "index.js",
